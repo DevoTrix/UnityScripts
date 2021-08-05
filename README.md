@@ -1,7 +1,6 @@
 # Title IN Progress
 ## Initial Plans
 
-50 v 50 format 
 ### Factions/teams
     - 2 main factions
         - multiple subfactions that have different perks/passives.
