@@ -31,15 +31,16 @@
     - choose a faction then a subfaction
     - Initial plans for a game to span a couple hours to a day ( this part is similar to COC where it isn't a get in a game win and restart.)
     - An overall level system. 
-### Maps
-    - TDM
+### Maps and Gamemodes
+    - Team DeathMatch
         - More Open and fast pased ( makes for a fast gamemode))
-    - HardPoint
+    - HardPoint/King of the Hill 
         - Traditional three lane hardpoint map from COD. 
     - Defence
         - Focuses more on camping/defensive map
         - one team has to defend a point while the other has to capture it. 
         - can be hectic or slow. 
+    - more gamemodes to be added. 
 ### Quests
     - Gets more challenging the more reputation
     - Quests are primarily solo or a party of 2.
