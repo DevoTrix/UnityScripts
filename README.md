@@ -1,4 +1,4 @@
-# My WW3 Game
+#Title IN Progress
 ## Initial Plans
 
 50 v 50 format 
