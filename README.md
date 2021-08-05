@@ -1,4 +1,4 @@
-# MyWW3Game
+# My WW3 Game
 ## Initial Plans
 
 50 v 50 format 
